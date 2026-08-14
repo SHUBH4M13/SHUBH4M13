@@ -1,121 +1,104 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Shubham%20Karna&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20%2F%20Spring%20Boot%20Developer&descAlignY=58&descAlign=50&color=0:0D1117,50:5B8CFF,100:9D6BFF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Shubham%20Karna&fontSize=58&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Java%20%2F%20Spring%20Boot%20Developer%20%C2%B7%20MIT%20ADT%20University&descAlignY=52&descAlign=50&descSize=18&color=0:0D1117,50:5B8CFF,100:9D6BFF" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=9D6BFF&center=true&vCenter=true&width=640&lines=Building+with+Java+%26+Spring+Boot;350%2B+LeetCode+Problems+Solved;Shipped+ShelfSync+%26+PrepX;Open+to+Internship+%2F+Fresher+Roles)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=9D6BFF&center=true&vCenter=true&width=620&lines=Building+with+Java+%26+Spring+Boot;350%2B+LeetCode+Problems+Solved;Shipped+ShelfSync+%26+PrepX;Open+to+Internship+%2F+Fresher+Roles)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B8CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/shubh4mkarna)
+[![GitHub](https://img.shields.io/badge/GitHub-9D6BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/SHUBH4M13)
+[![LeetCode](https://img.shields.io/badge/LeetCode-5B8CFF?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/Shubh4m13/)
+[![Gmail](https://img.shields.io/badge/Email-9D6BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:skarna230@gmail.com)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5B8CFF)](https://linkedin.com/in/shubh4mkarna)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9D6BFF)](https://github.com/SHUBH4M13)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=5B8CFF)](mailto:skarna230@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=9D6BFF)](https://leetcode.com/u/Shubh4m13/)
+![LeetCode](https://img.shields.io/badge/350%2B-LeetCode%20Solved-0D1117?style=for-the-badge&labelColor=5B8CFF)
+![CGPA](https://img.shields.io/badge/8.34%2F10-CGPA-0D1117?style=for-the-badge&labelColor=9D6BFF)
+![Certs](https://img.shields.io/badge/2-Certifications-0D1117?style=for-the-badge&labelColor=5B8CFF)
+![Projects](https://img.shields.io/badge/3%2B-Shipped%20Projects-0D1117?style=for-the-badge&labelColor=9D6BFF)
 
 </div>
 
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%">
-
-**350+**
-<br/>
-<sub>LeetCode solved</sub>
-
-</td>
-<td align="center" width="25%">
-
-**8.34**
-<br/>
-<sub>CGPA / 10</sub>
-
-</td>
-<td align="center" width="25%">
-
-**2**
-<br/>
-<sub>Certifications</sub>
-
-</td>
-<td align="center" width="25%">
-
-**3+**
-<br/>
-<sub>Shipped projects</sub>
-
-</td>
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:5B8CFF,100:0D1117" />
 
 <br/>
 
-## `01` About
+### ⚡ About
 
 ```yaml
 role:      Full Stack Developer, Java-focused
 education: B.Tech Computer Science @ MIT ADT University, Pune
 location:  Pune, India
 focus:     Backend systems, DSA, clean architecture
-status:    Looking for Java internship / fresher roles
+status:    Actively looking for Java internship / fresher roles
 ```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:5B8CFF,100:0D1117" />
 
 <br/>
 
-## `02` Tech Stack
+### 🛠 Tech Stack
 
 <div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js&theme=dark" />
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
-
-<br/><br/>
+![Java](https://img.shields.io/badge/Java-5B8CFF?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-9D6BFF?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-5B8CFF?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9D6BFF?style=flat-square&logo=javascript&logoColor=white)
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" />
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-5B8CFF?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-9D6BFF?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-5B8CFF?style=flat-square&logo=express&logoColor=white)
 
-<br/><br/>
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-9D6BFF?style=flat-square&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-5B8CFF?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-9D6BFF?style=flat-square&logo=framer&logoColor=white)
 
 **Databases &amp; Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,postman,vercel&theme=dark" />
+![MongoDB](https://img.shields.io/badge/MongoDB-5B8CFF?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-9D6BFF?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-5B8CFF?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-9D6BFF?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-5B8CFF?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-9D6BFF?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:5B8CFF,100:0D1117" />
+
 <br/>
 
-## `03` GitHub Activity
+### 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SHUBH4M13&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5B8CFF&icon_color=9D6BFF&text_color=C9D1D9&border_radius=12"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBH4M13&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=5B8CFF&text_color=C9D1D9&border_radius=12"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SHUBH4M13&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5B8CFF&icon_color=9D6BFF&text_color=C9D1D9&border_radius=14"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBH4M13&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=5B8CFF&text_color=C9D1D9&border_radius=14"/>
 
-<br/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBH4M13&hide_border=true&background=0D1117&stroke=0D1117&ring=5B8CFF&fire=9D6BFF&currStreakLabel=9D6BFF&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&border_radius=14" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBH4M13&hide_border=true&background=0D1117&stroke=0D1117&ring=5B8CFF&fire=9D6BFF&currStreakLabel=9D6BFF&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&border_radius=12" />
+<img src="https://github-profile-trophy.vercel.app/?username=SHUBH4M13&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1" />
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:5B8CFF,100:0D1117" />
+
 <br/>
 
-## `04` Experience
+### 💼 Experience
 
-<table>
+<table width="100%">
 <tr><td>
 
-**React.js Intern** · LearnCraft Engineering
-<br/>
+**React.js Intern** — LearnCraft Engineering
 <sub>June – July 2025</sub>
 
 - Built responsive frontend for Shivmala Infra projects
@@ -125,62 +108,62 @@ status:    Looking for Java internship / fresher roles
 </td></tr>
 </table>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:5B8CFF,100:0D1117" />
+
 <br/>
 
-## `05` Featured Projects
+### 🚀 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### ShelfSync
+#### ShelfSync
 
 Library management system covering cataloguing, lending, and member workflows end to end.
 
-`Java` `Spring Boot` `MySQL`
+![Java](https://img.shields.io/badge/Java-5B8CFF?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-5B8CFF?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5B8CFF?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### PrepX
+#### PrepX
 
 Defence exam preparation platform delivering structured practice content and progress tracking.
 
-`Java` `Spring Boot` `React`
+![Java](https://img.shields.io/badge/Java-9D6BFF?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-9D6BFF?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-9D6BFF?style=flat-square&logo=react&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## `06` Education
-
-| Degree | Institution | Score | Period |
-|:--|:--|:--|:--|
-| B.Tech — Computer Science | MIT ADT University, Pune | **8.34** / 10 CGPA | Aug 2023 – Present |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:5B8CFF,100:0D1117" />
 
 <br/>
 
-## `07` Connect
+### 🎓 Education
 
 <div align="center">
 
-| | |
-|:--|:--|
-| 💼 LinkedIn | [shubh4mkarna](https://linkedin.com/in/shubh4mkarna) |
-| 🐙 GitHub | [SHUBH4M13](https://github.com/SHUBH4M13) |
-| 🧩 LeetCode | [Shubh4m13](https://leetcode.com/u/Shubh4m13/) |
-| 📧 Email | [skarna230@gmail.com](mailto:skarna230@gmail.com) |
+| Degree | Institution | Score | Period |
+|:--|:--|:--:|:--|
+| B.Tech — Computer Science | MIT ADT University, Pune | **8.34** / 10 | Aug 2023 – Present |
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:5B8CFF,100:0D1117" />
 
 <div align="center">
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SHUBH4M13&color=5B8CFF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:9D6BFF,100:0D1117" />
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9D6BFF,50:5B8CFF,100:0D1117" />
 
 </div>
