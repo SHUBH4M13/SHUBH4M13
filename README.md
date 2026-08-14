@@ -33,16 +33,6 @@ B.Tech Computer Science student at MIT ADT University, Pune — CGPA 8.34/10, gr
 
 <br/>
 
-### What I've built
-
-**ShelfSync** is a library management system written in Java and Spring Boot — cataloguing, lending, and member management modeled as one coherent workflow rather than bolted-together CRUD screens, backed by MySQL.
-
-**PrepX** is a preparation platform for defence exam aspirants, pairing a Spring Boot backend with a React frontend to structure practice content and track progress over time.
-
-Both were built to be read as much as they were built to run — decisions about schema, layering, and API shape were made deliberately, not defaulted into.
-
-<br/>
-
 ### Experience
 
 **React.js Intern**, LearnCraft Engineering — *June–July 2025*
