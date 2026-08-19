@@ -1,7 +1,5 @@
 <div align="center">
 
-# 📎 DUNDER MIFFLIN PAPER COMPANY 📎
-### Scranton Branch — Employee Directory
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=E8B923&center=true&vCenter=true&width=600&lines=%22I+am+running+away+from+my+problems.%22;%22Bears.+Beets.+Backend+Systems.%22;%22That%27s+what+she+said+-+in+Java%22" alt="typing banner" />
 
